@@ -325,3 +325,33 @@ main{
     -webkit-text-stroke: 1px white;
     text-shadow: 3px 3px 3px black;
 }
+
+
+footer{
+    margin-top: 220px;
+    background-color: #A13535;    
+    padding: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.phone{
+    color: black;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.footer-info{
+    color: black;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 70px;
+    padding-left: 40px;
+}

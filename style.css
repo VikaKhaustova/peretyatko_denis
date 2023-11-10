@@ -192,8 +192,25 @@ main{
 .menu-div{
     position: relative;
     left: 88px;
-    margin: 10% 0%;
+    margin: 12% 0%;
 }
+.menu-div a{
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color: #7CAFDD;
+    text-decoration: none;
+    width: 283px;
+    height: 78px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .menu-img{
     width: 30%;  
 }
@@ -207,29 +224,29 @@ main{
     justify-content: center;
 }
 .menu-info h3{
-    color: #CA3838;
+    margin-top: 0;
+    color: #FFBD12;
     font-family: Roboto;
-    font-size: 36px;
+    font-size: 40px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
-    -webkit-text-stroke: 1px black;
 }
 .menu-text{
     width: 80%;
     color: #000;
     font-family: Roboto;
-    font-size: 24px;
+    font-size: 32px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    }
+}
 
 
 .sallary{
     color: #000;
     font-family: Roboto;
-    font-size: 24px;
+    font-size: 36px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
